@@ -6,7 +6,6 @@ Built with ASP.NET Core (C#) and a plain HTML/CSS/JavaScript frontend.
 
 ## Live Demo
 
-*(Add your deployed link here if you host it, e.g. on Azure/Render/Railway)*
 
 ## Features
 
